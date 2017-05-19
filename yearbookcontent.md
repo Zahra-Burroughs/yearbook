@@ -1,0 +1,5 @@
+yearbook content
+My name is Zahra
+I am a 13 year old girl, in 7th grade going to 8th soon. I am mixed, my mom is black and my dad is white. I do have a sibling, named William, and he is currwntly eight yeaars old. When i'm older, I want to be an olympic swimmer, and eventually get my PHD in college and become an astro-physist. As far-fetched as it may sound, I want to be the first woman on the moon! If I can't go to space for whatever reason, I would like to help design rockets, and make new discoveries about space! 
+My absolute favorite hobby of mine is swimming. I love to swim. Competing is really fun, and the feeling of winning is the best. I have been on the swim team since I was seven, and I soon hope to join the junior olympics, then move on to the Olympics. I want to follow in the footsteps of Michael Phelps, the world's fastest swimmer. He has won 28 gold medals! Another hobby of mine is photography. It's really fun!
+People i admire
