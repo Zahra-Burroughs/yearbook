@@ -17,6 +17,7 @@ navy blue= #355C7D
 body {
 	font-family: "Open Sans Condensed", sans-serif;
 	background:#355C7D ;
+	color:#355C7D;
 }
 
 a {
@@ -28,6 +29,7 @@ a:hover{
 	background:pink ;
 }
  
+ .wrapper {
 	background-color:#F8B195 ;
 	max-width: 1024px;
 	width: 1024px;
@@ -35,7 +37,7 @@ a:hover{
 }
 
 img {
-	width:100%;
+	width: 100%;
 	height: auto;
 }
 
@@ -103,11 +105,11 @@ section {
 }
 
 .bio p {
-	color:white;
+	color:#355C7D;
 }
 
 .bio h1 {
-	color:white;
+	color:#355C7D;
 }
 
 /*
@@ -156,3 +158,15 @@ section {
 .intro p{
 	margin-bottom:0;
 }
+
+.student-photo a {
+	width: 175px;
+	height: 175px;
+	overflow: hidden;
+	padding: 0;
+}
+
+.student-photo a:hover {
+	background: none;
+}
+
